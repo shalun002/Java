@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ef7ce29-da92-4480-a17b-aacc636f0bd4" name="Default" comment="" />
+    <list default="true" id="0ef7ce29-da92-4480-a17b-aacc636f0bd4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -95,6 +97,17 @@
           <expand>
             <path>
               <item name="Lessons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lessons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lessons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Lessons" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -214,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523510407644</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1523512145988</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1523512145988</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -237,12 +257,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50061125" side_tool="true" weight="0.3298731" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" sideWeight="0.49938875" weight="0.3298731" />
+      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.49938875" visible="true" weight="0.32887402" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3298731" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49938875" visible="true" weight="0.32887402" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49938875" weight="0.32887402" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49833888" visible="true" weight="0.21801706" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49833888" visible="true" weight="0.21801706" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" sideWeight="0.5016611" side_tool="true" weight="0.21801706" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
