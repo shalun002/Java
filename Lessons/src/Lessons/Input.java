@@ -9,5 +9,9 @@ public class Input {
         String str = scanner.nextLine();
 
         System.out.println("Вы ввели " + str);
+
+
+
+
     }
 }
