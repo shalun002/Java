@@ -10,4 +10,8 @@ public class Dog extends Animal {
         System.out.println("I am barking");
     }
 
+    public void showName(String name){
+        System.out.println("Dog name is - " + name);
+    }
+
 }
